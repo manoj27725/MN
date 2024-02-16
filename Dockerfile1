@@ -1,1 +1,2 @@
-F
+FROM mysql
+ENV MYSQL_DATABASE db1
